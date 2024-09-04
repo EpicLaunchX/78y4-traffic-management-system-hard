@@ -12,3 +12,4 @@ def test_enum_str_method():
     assert str(TrafficLightState.RED) == "RED"
     assert str(TrafficLightState.YELLOW) == "YELLOW"
     assert str(TrafficLightState.GREEN) == "GREEN"
+
